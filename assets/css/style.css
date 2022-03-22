@@ -9,28 +9,31 @@
 body {
    font-family: Sans Pro, sans-serif;
    font-weight: 300;
-   color: green;
+   color: #E5E4E2;
    background-color: #2C2C2B;
 }
 
 /* headings and logo */
 
-h1, h2 {
+h1 {
     font-family: Sans Pro, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: green;
+    color: #E5E4E2;
 }
 
 #logo {
-    float: left;
+    float: none;
     font-size: 200%;
+    margin-left: 10px;
 }
 
 /* navigation links */
 
 #menu {
-    float: right;
+    float: none;
+    margin-left: 1430px;
+    margin-top: -80px;
     font-size: 130%;
     letter-spacing: 4px;
 }
@@ -51,11 +54,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid #E5E4E2;
 }
 
 .active {
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid #E5E4E2;
 }
 
 /* home image */
@@ -90,6 +93,40 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: green;
+    color: #E5E4E2;
 }
 
+/* profile content */
+
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: Sans Pro, sans-serif;
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h2 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h3 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.box p {
+    text-align: justify;
+}
