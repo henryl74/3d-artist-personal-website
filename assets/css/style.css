@@ -20,6 +20,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #E5E4E2;
+    text-decoration: none;
 }
 
 #logo {
@@ -54,11 +55,11 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #E5E4E2;
+    border-bottom: 2px solid #E5E4E2;
 }
 
 .active {
-    border-bottom: 1px solid #E5E4E2;
+    border-bottom: 2px solid #E5E4E2;
 }
 
 /* home image */
@@ -104,7 +105,7 @@ footer {
     padding: 40px;
     text-align: center;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 145px;
     color: white;
     font-family: Sans Pro, sans-serif;
     font-size: 120%;
@@ -130,4 +131,5 @@ footer {
 
 .box p {
     text-align: justify;
+    letter-spacing: 1px;
 }
