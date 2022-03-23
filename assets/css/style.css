@@ -107,6 +107,7 @@ footer {
     margin-top: 5%;
     color: white;
     font-family: Sans Pro, sans-serif;
+    font-size: 120%;
 }
 
 .box-img {
@@ -116,13 +117,13 @@ footer {
 }
 
 .box h2 {
-    font-size: 40px;
+    font-size: 50px;
     letter-spacing: 4px;
     font-weight: 100;
 }
 
 .box h3 {
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 3px;
     font-weight: 100;
 }
