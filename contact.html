@@ -36,20 +36,26 @@
         </nav>
     </header>
 
-    <div class="container">
-        <div class="contact-box">
-            <div class="left"></div>
-            <div class="right">
-            <h2>Contact Me</h2>
-            <input type="text" class="field" placeholder="Your Name">
-            <input type="email" class="field" placeholder="Your Email">
-            <input type="text" class="field" placeholder="Your Phone">
-            <textarea class="field area" placeholder="Message"></textarea>
-            <button class="btn">Send</button>
+    <section class="contact-section">
+    <form method="POST" action="https://uk.linkedin.com/in/leoncristian" class="contact-form">
+    <h2>Get in touch!</h2>
+    <label for="fname">Full Name</label>
+            <input class="text-input" id="fname" name="full_name" type="text" required>
 
-        </div>
-        </div>
-    </div>
+            <label for="email">Email Address</label>
+            <input class="text-input" type="email" id="email" name="email_address" required>
+
+            <label for="phone">Your Phone</label>
+            <input class="text-input" type="phone" id="phone" name="phone_number">
+
+            <textarea class="field area" placeholder="Message"></textarea>
+
+            <input class="button" type="submit" value="Send">
+
+        </form>
+
+        </section>
+            
 
     <footer>
      <ul class="social-networks">
