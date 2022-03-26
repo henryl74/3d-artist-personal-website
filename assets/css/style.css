@@ -215,3 +215,35 @@ footer {
     background-color: #E5E4E2;
     color: black;
 }
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px){
+    .box {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+    .box {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .photo {
+        column-count: 4;
+    }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+    .photo {
+        column-count: 2;
+    }
+}
