@@ -54,7 +54,7 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #E5E4E2;
+    background-color: rgb(110, 100, 100);
 }
 
 .active {
@@ -137,6 +137,7 @@ footer {
 /* gallery */
 
 .photos {
+    clear: left;
     margin-top: 90px;
     justify-content: center;
     align-items: center;
