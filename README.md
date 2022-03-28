@@ -14,10 +14,10 @@ Users will find details about his rofile, his work, and a contact information fo
 
 My project consists of four webpages:
 
-- Home or landing page, display the main image of the artist work; this page speaks for itself, it aims to give to user a first time view of the quality of his work.
-- Profile page, describe the artist knowledge and capability to work with different platforms and systems related to his industry.
-- Gallery page, highlights various images of the artist work.
-- Contact page, gives the option to the user to contact him via email, additionally they can include their phone number, please note this field is optional.
+- Home or landing page.
+- Profile page.
+- Gallery page.
+- Contact page.
 
 ### - The Navigation Bar
 
@@ -49,7 +49,7 @@ My project consists of four webpages:
 
 - Contact page, gives the option to the user to contact him via email, additionally they can include their phone number, please note this field is optional.
 
-![Screenshot of the Gallery Page](assets/images/)
+![Screenshot of the Contact Page](assets/images/Contact%20Page.png)
 
 ### - The Footer
 
@@ -71,7 +71,13 @@ My project consists of four webpages:
 
 - While testing the navegation menu before deploying my project to github, I noticed there was a problem when clicking on the profile menu from the contact one; instead of taking me to the correct destination, it took me to the home page instead.
 - I discovered this was due when I copied the initial index.html file to the contact one, I forgot to update the href to "profile.html" within anchor element.
-- Please refer below the code updated:
+
+![Screenshot of the anchor element](assets/images/anchor%20code.png)
+
+- The box I created for the profile page was out alignment at top, this due the "float left" I applied to the logo/header in my css file.
+- I solved this by applying "clear left" to the box profile ID:
+
+![Screenshot of the box id](assets/images/CSS%20Profile%20Box.png)
 
 
 ## Validator Testing
@@ -109,10 +115,10 @@ The live link ca be found here -
 ## Acknowledgements
 
 - The README template provided y Code Institute on the sample project README.md from "Project Portfolio 1"
-- The online tutors.
-- All the slackers from the slack community.
+- The online tutors for all the their help.
+- The Code Institute slack community.
 - My classmates: Tasha Johnson and Usman Khan.
-- Code Institute student support team, for listening and all the encouragement provided through the course.
+- Code Institute student support team, for listening to my concerns and for all the encouragement given.
 ---
 
 Happy coding!
