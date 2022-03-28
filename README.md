@@ -49,7 +49,7 @@ My project consists of four webpages:
 
 - Contact page, gives the option to the user to contact him via email, additionally they can include their phone number, please note this field is optional.
 
-![Screenshot of the Gallery Page](assets/images/Contact%20Page.png)
+![Screenshot of the Gallery Page](assets/images/)
 
 ### - The Footer
 
