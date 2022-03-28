@@ -84,7 +84,11 @@ My project consists of four webpages:
 
 ### HTML
 
+- I updated the images title by using underscore to rename the images, and eliminate any previous space on the tytle; I checked the html files again and no errors were returned when passing through the official W3C validator. 
+
 ### CSS
+
+- No errors were found when passing through the official (Jigsaw) validator.
 
 ### Accessibility
 
