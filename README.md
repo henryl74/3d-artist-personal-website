@@ -3,9 +3,9 @@
 
 The purpose of this website is to promote my brother's 3D work porttfolio. The main goal of this project is to demostrate my knowledge acquired throughout the course in HTML and CSS.
 
-This site is aimed to advertise his services to video game companies, and companies or people that may require of similar services.
+This site is aimed to advertise his services to video game companies, and people that may require of his services.
 
-Users will find details about his rofile, his work, and a contact information form.
+Users will be able to find details about his rofile, work, and a there is contact information form section for the user.
 
 ![Screenshot from amiresponsivedesign](assets/images/web-page-common-screen-sizes.png)
 
@@ -41,31 +41,40 @@ My project consists of four webpages:
 
 ### - The Home or Landing Page
 
-- Home or landing page, display the main image of the artist work; this page speaks for itself, it aims to give to user a first time view of the quality of his work.
+- Home page, displays the main image of the artist work along with his name as a logo on the top left hand side corner; this page speaks for itself, it aims to give to user a first time view experience of the quality of his work.
 
 ![Screenshot of the Home Page](assets/images/Home_Page.png)
 
 ### - The Profile Page
 
-- Profile page, describe the artist knowledge and capability to work with different platforms and systems related to his industry.
+- Profile page, displays the artist profile photo; and describes his knowledge and capability to work with different platforms and systems related to his industry.
 
 ![Screenshot of the Profile Page](assets/images/Profile_Page.png)
 
 ### - The Gallery Page
 
-- Gallery page, highlights various images of the artist work.
+- Gallery page, highlights various images of the artist work, some of them are sketches and some are personal projects for use of his portfolio.
 
 ![Screenshot of the Gallery Page](assets/images/Gallery_Page.png)
 
 ### - The Contact Page
 
-- Contact page, gives the option to the user to contact him via email, additionally they can include their phone number, please note this field is optional.
+- Contact page, encourages the users to contact the artist.
+- The contact form collects details of the user such as names, email address, telephone number and they can include a message as well.
+- Please note phone and message fields are optional.
 
 ![Screenshot of the Contact Page](assets/images/Contact_Page.png)
 
+
+- I tested the contact form with successfully results when submitted.
+
+![Screenshot submitted contact form](assets/images/contact_form_submitted.png)
+
+- I tested the validation on the contact form and works very well, name and email fields are mandatory preventing the user of leaving this black or without the required information.
+
 ### - The Footer
 
-- The footer section includes links to the relevant social media sites of the artist. The links open to a new tab to allow easy navigation for the user.
+- The footer section includes links to the relevant social media sites associated to the artist. The links open to a new tab to allow easy navigation for the user.
 
 ![Screenshot of the Gallery Page](assets/images/Footer.png)
 
@@ -135,7 +144,7 @@ The live link ca be found here -
 
 ## Media
 
-- All images in the website were provided by Cristian Leon.
+- All images in my website project were provided by Cristian Leon (the artist).
 
 ## Acknowledgements
 
@@ -143,5 +152,5 @@ The live link ca be found here -
 - The online tutors for all their help.
 - The Code Institute slack community.
 - My classmates: Tasha Johnson and Usman Khan.
-- Code Institute student support team, for listening to my concerns and for all the encouragement given.
+- Code Institute student support team, for listening to my concerns and for all their encouragement given.
 ---
