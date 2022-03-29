@@ -7,10 +7,22 @@ This site is aimed to advertise his services to video game companies, and compan
 
 Users will find details about his rofile, his work, and a contact information form.
 
-## Features
+![Screenshot from amiresponsivedesign](assets/images/web-page-common-screen-sizes.png)
+
 ---
 
-### - Navigation
+## Live Site
+
+[Cristian Leon - 3D Artist](https://henryl74.github.io/3d-artist-personal-website/)
+
+## Repository
+
+https://github.com/henryl74/3d-artist-personal-website
+
+
+---
+# Features
+---
 
 My project consists of four webpages:
 
@@ -27,7 +39,7 @@ My project consists of four webpages:
 
 ![Screenshot of the Navigation Bar](assets/images/screenshot_navigation.png)
 
-### - The Home Page
+### - The Home or Landing Page
 
 - Home or landing page, display the main image of the artist work; this page speaks for itself, it aims to give to user a first time view of the quality of his work.
 
@@ -79,16 +91,25 @@ My project consists of four webpages:
 
 ![Screenshot of the box id](assets/images/CSS_Profile_Box.png)
 
+### Unfixed Bugs
+
+- Due to time constraints I culd not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
+- The "Home" image seems to heavy and affects the score performance in lighthouse, this is something I would like to work more and fix it on a later stage.
+
 
 ## Validator Testing
 
 ### HTML
 
-- I updated the images title by using underscore to rename the images, and eliminate any previous space on the tytle; I checked the html files again and no errors were returned when passing through the official W3C validator. 
+- The first time I run the html in W3C, they returned with a few errors encountered in the title of the images, I fixed this by renaming the images title by using underscore to eliminate any existing space from the name; run the html files again and this time no errors were returned when passing through the official W3C validator.
+
+![W3C HTML Validator screenshot](assets/images/W3C_HTML_Validator.png)
 
 ### CSS
 
 - No errors were found when passing through the official (Jigsaw) validator.
+
+![W3C CSS Validator screenshot](assets/images/W3C_CSS_Validator.png)
 
 ### Accessibility
 
@@ -124,5 +145,3 @@ The live link ca be found here -
 - My classmates: Tasha Johnson and Usman Khan.
 - Code Institute student support team, for listening to my concerns and for all the encouragement given.
 ---
-
-Happy coding!
