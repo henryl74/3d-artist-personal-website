@@ -5,7 +5,7 @@ The purpose of this website is to promote my brother's 3D work porttfolio. The m
 
 This site is aimed to advertise his services to video game companies, and people that may require of his services.
 
-Users will be able to find details about his rofile, work, and a there is contact information form section for the user.
+Users will be able to find details about his profile, work, and a contact information form section.
 
 ![Screenshot from amiresponsivedesign](assets/images/web-page-common-screen-sizes.png)
 
@@ -33,15 +33,15 @@ My project consists of four webpages:
 
 ### - The Navigation Bar
 
-- The naviagation bar is located at the top of the page, displays the the artist name and role in the left corner.
-- The other navigation links are on the to right hand side: Home, Profile, Gallery, Contact which link to different sections of the same page.
+- The naviagation bar is located at the top of the page, one section displays the the artist name and role, this information is located on the left corner.
+- The other navigation links of the website are on the top right hand side, these are: Home, Profile, Gallery, and Contact.
 - The navigation bar is very responsive and user friendly, allows the user to find information easily in each section of the website.
 
 ![Screenshot of the Navigation Bar](assets/images/screenshot_navigation.png)
 
 ### - The Home or Landing Page
 
-- Home page, displays the main image of the artist work along with his name as a logo on the top left hand side corner; this page speaks for itself, it aims to give to user a first time view experience of the quality of his work.
+- Home page, displays the main image of the artist work along with his name as a logo, this is located on the top left hand side corner; this page speaks for itself, it aims to give the user a first time view experience of the quality of his work.
 
 ![Screenshot of the Home Page](assets/images/Home_Page.png)
 
@@ -61,7 +61,7 @@ My project consists of four webpages:
 
 - Contact page, encourages the users to contact the artist.
 - The contact form collects details of the user such as names, email address, telephone number and they can include a message as well.
-- Please note phone and message fields are optional.
+- Please note phone and message fields are optional when completing the form.
 
 ![Screenshot of the Contact Page](assets/images/Contact_Page.png)
 
@@ -91,7 +91,7 @@ My project consists of four webpages:
 ### Solved bugs
 
 - While testing the navegation menu before deploying my project to github, I noticed there was a problem when clicking on the profile menu from the contact one; instead of taking me to the correct destination, it took me to the home page instead.
-- I discovered this was due when I copied the initial index.html file to the contact one, I forgot to update the href to "profile.html" within anchor element.
+- I discovered this was due when I copied the initial index.html file to the contact one, I forgot to update the href to "profile.html" within the anchor element.
 
 ![Screenshot of the anchor element](assets/images/anchor_code.png)
 
@@ -103,14 +103,14 @@ My project consists of four webpages:
 ### Unfixed Bugs
 
 - Due to time constraints I culd not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
-- The "Home" image seems to heavy and affects the score performance in lighthouse, this is something I would like to work more and fix it on a later stage.
+- The "Home" image seems to be a little heavy and affects a bit the score performance in lighthouse for this section of the website, this is something I would like to work more and fix it on a later stage.
 
 
 ## Validator Testing
 
 ### HTML
 
-- The first time I run the html in W3C, they returned with a few errors encountered in the title of the images, I fixed this by renaming the images title by using underscore to eliminate any existing space from the name; run the html files again and this time no errors were returned when passing through the official W3C validator.
+- The first time I run the html in W3C, it returned with a few errors encountered in the title of the images, I fixed this by renaming the images title by using underscore to eliminate any existing space from the name; run the html files again and this time no errors were returned when passing through the official W3C validator.
 
 ![W3C HTML Validator screenshot](assets/images/W3C_HTML_Validator.png)
 
@@ -132,9 +132,11 @@ The site was deployed to GitHub pages. The steps to deploy are:
 - From the source section drop-down menu, select the Master Branch.
 - Once the Master Branch has been selected, the page provided the link to the completed website.
 
-The live link ca be found here -
+The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.github.io/3d-artist-personal-website/)
 
-## Credits
+----
+# Credits
+
 
 ## Content
 
