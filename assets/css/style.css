@@ -64,14 +64,14 @@ h1 {
 /* home image */
 
 #background-outer {
-    height: 900px;
+    height: 710px;
     width: 100%;
     overflow: hidden;
 }
 
 #background-image {
     background: url('../images/home-cover.gif') no-repeat center center;
-    height: 900px;
+    height: 710px;
     width: 100%;
 }
 
