@@ -91,7 +91,7 @@ My project consists of four webpages:
 
 ### Firefox Mobile Browser
 
-![Google Chrome Browser](DOCS/Firefox_Mobile_browser.jpg)
+![Google Chrome Browser](DOCS/Firefox_Mobile_browser.jpeg)
 
 
 ## Bugs
