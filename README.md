@@ -62,7 +62,6 @@ My project consists of four webpages:
 
 - Contact page, encourages the users to contact the artist.
 - The contact form collects details of the user such as names, email address, telephone number and they can include a message as well.
-- Please note the message field is optional when completing the form.
 
 ![Screenshot of the Contact Page](assets/images/Contact_Page.png)
 
