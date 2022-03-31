@@ -191,7 +191,6 @@ footer {
 .contact-section {
     clear: left;
     background: url('../images/home.jpeg') no-repeat center center;
-    ;
     background-size: cover;
     background-position: center;
     height: 800px;
@@ -220,6 +219,11 @@ footer {
     margin: 5px 0 20px 0;
     border: 1.5px solid #E5E4E2;
     border-radius: 3px;
+}
+
+.field-area {
+    padding: 2rem;
+    font-family: Sans Pro, sans-serif;
 }
 
 .text-input:hover {
