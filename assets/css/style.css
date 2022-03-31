@@ -86,7 +86,7 @@ h1 {
     margin: 0 auto;
 }
 
-.center-about-hading {
+.center-about-heading {
     text-align: center;
     margin: 35px;
     font-size: 130%;
@@ -245,11 +245,23 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
+
+    #center-about {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
 }
 
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
     .box {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #center-about {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
