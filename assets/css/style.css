@@ -78,7 +78,7 @@ h1 {
 /* Welcome intro message */
 
 #intro-message {
-    height: 200px;
+    height: auto;
 }
 
 #center-about {
@@ -96,8 +96,13 @@ h1 {
 
 /* footer */
 
+body > footer {
+    position: relative;
+  }
+
 footer {
-    height: 150px;
+    height: 9em;
+    margin-bottom: 0px
 }
 
 .social-networks {
@@ -242,13 +247,13 @@ footer {
 @media screen and (max-width: 1200px){
     .box {
         width: 65%;
-        height: 1200px;
+        height: auto;
         margin: 0 auto;
     }
 
     #center-about {
         width: 65%;
-        height: 1200px;
+        height: auto;
         margin: 0 auto;
     }
 }
@@ -257,13 +262,13 @@ footer {
 @media screen and (max-width: 950px){
     .box {
         width: 90%;
-        height: 1200px;
+        height: auto;
         margin: 0 auto;
     }
 
     #center-about {
         width: 90%;
-        height: 1200px;
+        height: auto;
         margin: 0 auto;
     }
 
