@@ -166,7 +166,7 @@ footer {
     margin-top: 90px;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+    width: 96vw;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
     column-gap: 10px;
