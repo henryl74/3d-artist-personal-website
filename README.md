@@ -77,7 +77,7 @@ My project consists of four webpages:
 
 - The footer section includes links to the relevant social media sites associated to the artist. The links open to a new tab to allow easy navigation for the user.
 
-![Screenshot of the Gallery Page](assets/images/Footer.png)
+![Screenshot of the Gallery Page](assets/images/Footer_Social_Media.png)
 
 ## Testing
 ---
