@@ -95,10 +95,11 @@ My project consists of four webpages:
 
 ![Screenshot of the box id](assets/images/CSS_Profile_Box.png)
 
+- The "Home" image was a little heavy and affected somehow the score for performance in lighthouse for this section of the website, I fixed this by converting the file to jpeg and reducing the size.
+
 ### Unfixed Bugs
 
 - Due to time constraints I culd not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
-- The "Home" image seems to be a little heavy and affects somehow the score performance in lighthouse for this section of the website, this is something I would like to work more and fix it on a later stage.
 
 
 ## Validator Testing
@@ -107,7 +108,13 @@ My project consists of four webpages:
 
 - The first time I run the html in W3C, it returned with a few errors encountered in the title of the images, I fixed this by renaming the images title by using underscore to eliminate any existing space from the name; run the html files again and this time no errors were returned when passing through the official W3C validator.
 
-![W3C HTML Validator screenshot](assets/images/W3C_HTML_Validator.png)
+![W3C HTML Validator Home Screenshot](assets/images/W3C_HTML_Validator.png)
+
+![W3C HTML Validator Profile Screenshot](DOCS/WC3_html_profile.png)
+
+![W3C HTML Validator Galley Screenshot](DOCS/WC3_html_gallery.png)
+
+![W3C HTML Validator Contact Screenshot](DOCS/WC3_html_contact.png)
 
 ### CSS
 
@@ -118,6 +125,26 @@ My project consists of four webpages:
 ### Accessibility
 
 - I confirmed that the colors and fonts chosen are easy to read and accessible by running lighthouse in DevTools.
+
+### Desktop
+
+![lighthouse Images Home Desktop](DOCS/home_page_lighthouse_desktop.png)
+
+![lighthouse Images Profile Desktop](DOCS/profile_page_lighthouse_desktop.png)
+
+![lighthouse Images Gallery Desktop](DOCS/gallery_page_lighthouse_desktop.png)
+
+![lighthouse Images Contact Desktop](DOCS/contact_page_lighthouse_desktop.png)
+
+### Mobile
+
+![lighthouse Images Home Mobile](DOCS/home_page_lighthouse_mobile.png)
+
+![lighthouse Images Profile Mobile](DOCS/profile_page_lighthouse_mobile.png)
+
+![lighthouse Images Gallery Mobile](DOCS/gallery_page_lighthouse_mobile.png)
+
+![lighthouse Images Contact Mobile](DOCS/contact_page_lighthouse_mobile.png)
 
 ### Deployment
 
