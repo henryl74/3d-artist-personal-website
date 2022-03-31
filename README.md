@@ -15,11 +15,6 @@ Users will be able to find details about his profile, work, and a contact inform
 
 [Cristian Leon - 3D Artist](https://henryl74.github.io/3d-artist-personal-website/)
 
-## Repository
-
-https://github.com/henryl74/3d-artist-personal-website
-
-
 ---
 # Features
 
@@ -129,8 +124,9 @@ My project consists of four webpages:
 The site was deployed to GitHub pages. The steps to deploy are:
 
 - In the GitHub repository, navigate to the Settings tab.
-- From the source section drop-down menu, select the Master Branch.
-- Once the Master Branch has been selected, the page provided the link to the completed website.
+- On the GitHub Pages section cliecked on the pages settings dedicated tab link.
+- From the source section drop-down menu, select the Main Branch click on seve.
+- Once the Main Branch has been selected and saved, the page provided the link to the completed website.
 
 The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.github.io/3d-artist-personal-website/)
 
@@ -154,5 +150,6 @@ The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.git
 - The online tutors for all their help.
 - The Code Institute slack community.
 - My classmates: Tasha Johnson and Usman Khan.
-- Code Institute student support team, for listening to my concerns and for all their encouragement given.
+- My new mentor Chris Quinn, thank you for all your positive feedback and guidance given. 
+- Last but not least Code Institute student support team, for listening to my concerns and for all their encouragement given.
 ---
