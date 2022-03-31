@@ -1,7 +1,7 @@
 # Portfolio Project 1 - 3D Artist Personal Website
 
 
-The purpose of this website is to promote my brother's 3D work porttfolio. The main goal of this project is to demostrate my knowledge acquired throughout the course in HTML and CSS.
+The purpose of this website is to promote my brother's 3D work porttfolio. The main goal of this project is to demonstrate my knowledge acquired throughout the course in HTML and CSS.
 
 This site is aimed to advertise his services to video game companies, and people that may require of his services.
 
@@ -22,7 +22,7 @@ https://github.com/henryl74/3d-artist-personal-website
 
 ---
 # Features
----
+
 
 My project consists of four webpages:
 
@@ -42,6 +42,7 @@ My project consists of four webpages:
 ### - The Home or Landing Page
 
 - Home page, displays the main image of the artist work along with his name as a logo, this is located on the top left hand side corner; this page speaks for itself, it aims to give the user a first time view experience of the quality of his work.
+- The user will find a welcome section with an overiew of the website and its content, this section is also supported by the foother social media links associated to the artist.
 
 ![Screenshot of the Home Page](assets/images/Home_Page.png)
 
@@ -61,7 +62,7 @@ My project consists of four webpages:
 
 - Contact page, encourages the users to contact the artist.
 - The contact form collects details of the user such as names, email address, telephone number and they can include a message as well.
-- Please note phone and message fields are optional when completing the form.
+- Please note the message field is optional when completing the form.
 
 ![Screenshot of the Contact Page](assets/images/Contact_Page.png)
 
@@ -70,7 +71,7 @@ My project consists of four webpages:
 
 ![Screenshot submitted contact form](assets/images/contact_form_submitted.png)
 
-- I tested the validation on the contact form and works very well, name and email fields are mandatory preventing the user of leaving this black or without the required information.
+- I tested the validation on the contact form and works very well, name, email and phone fields are mandatory preventing the user of leaving this black or without the required information.
 
 ### - The Footer
 
@@ -81,10 +82,10 @@ My project consists of four webpages:
 ## Testing
 ---
 
-- I tested this page in different web browsers such as: Chrome, Firefox, Safari.
+- I tested this page in different web browsers such as: Chrome, Firefox, Safari on desktop and mobile phones respectively.
 - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools device toolbar.
 - I confirmed that the navigation, header, home, profile, gallery, and contact text are all rideable and easy to understand.
-- I confirmed that the form works. It requires entries in every field, will only accept an email in the email field, and the submit button works.
+- I confirmed that the form works. It requires entries in every field (excluding the message), will only accept an email in the email field, and the submit button works.
 
 ## Bugs
 
@@ -103,7 +104,7 @@ My project consists of four webpages:
 ### Unfixed Bugs
 
 - Due to time constraints I culd not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
-- The "Home" image seems to be a little heavy and affects a bit the score performance in lighthouse for this section of the website, this is something I would like to work more and fix it on a later stage.
+- The "Home" image seems to be a little heavy and affects somehow the score performance in lighthouse for this section of the website, this is something I would like to work more and fix it on a later stage.
 
 
 ## Validator Testing
