@@ -81,6 +81,19 @@ My project consists of four webpages:
 - I confirmed that the navigation, header, home, profile, gallery, and contact text are all rideable and easy to understand.
 - I confirmed that the form works. It requires entries in every field (excluding the message), will only accept an email in the email field, and the submit button works.
 
+### Google Chrome Browser
+
+![Google Chrome Browser](DOCS/Google_Chrome_browser.png)
+
+### Safari Browser
+
+![Google Chrome Browser](DOCS/Safari_browser.png)
+
+### Firefox Mobile Browser
+
+![Google Chrome Browser](DOCS/Firefox_Mobile_browser.jpg)
+
+
 ## Bugs
 
 ### Solved bugs
