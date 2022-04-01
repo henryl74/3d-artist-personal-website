@@ -39,7 +39,7 @@ My project consists of four webpages:
 - Home page, displays the main image of the artist work along with his name as a logo, this is located on the top left hand side corner; this page speaks for itself, it aims to give the user a first time view experience of the quality of his work.
 - The user will find a welcome section with an overiew of the website and its content, this section is also supported by the foother social media links associated to the artist.
 
-![Screenshot of the Home Page](assets/images/Home_Page.png)
+![Screenshot of the Home Page](docs/home_landing_page.png)
 
 ### - The Profile Page
 
@@ -51,7 +51,7 @@ My project consists of four webpages:
 
 - Gallery page, highlights various images of the artist work, some of them are sketches and some are personal projects for use of his portfolio.
 
-![Screenshot of the Gallery Page](assets/images/Gallery_Page.png)
+![Screenshot of the Gallery Page](docs/gallery_page_new.png)
 
 ### - The Contact Page
 
