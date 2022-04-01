@@ -7,7 +7,7 @@ This site is aimed to advertise his services to video game companies, and people
 
 Users will be able to find details about his profile, work, and a contact information form section.
 
-![Screenshot from amiresponsivedesign](assets/images/web-page-common-screen-sizes.png)
+![Screenshot from amiresponsivedesign](docs/web_page_common_screen_sizes.png)
 
 ---
 
@@ -67,6 +67,8 @@ My project consists of four webpages:
 
 - I tested the validation on the contact form and works very well, name, email and phone fields are mandatory preventing the user of leaving this black or without the required information.
 
+![Contact form validation](docs/contact_form_validation.png)
+
 ### - The Footer
 
 - The footer section includes links to the relevant social media sites associated to the artist. The links open to a new tab to allow easy navigation for the user.
@@ -83,15 +85,15 @@ My project consists of four webpages:
 
 ### Google Chrome Browser
 
-![Google Chrome Browser](DOCS/Google_Chrome_browser.png)
+![Google Chrome Browser](docs/Google_Chrome_browser.png)
 
 ### Safari Browser
 
-![Google Chrome Browser](DOCS/Safari_browser.png)
+![Google Chrome Browser](docs/Safari_browser.png)
 
 ### Firefox Mobile Browser
 
-![Google Chrome Browser](DOCS/Firefox_Mobile_browser.jpeg)
+![Google Chrome Browser](docs/Firefox_Mobile_browser.jpeg)
 
 
 ## Bugs
@@ -123,11 +125,11 @@ My project consists of four webpages:
 
 ![W3C HTML Validator Home Screenshot](assets/images/W3C_HTML_Validator.png)
 
-![W3C HTML Validator Profile Screenshot](DOCS/WC3_html_profile.png)
+![W3C HTML Validator Profile Screenshot](docs/WC3_html_profile.png)
 
-![W3C HTML Validator Galley Screenshot](DOCS/WC3_html_gallery.png)
+![W3C HTML Validator Galley Screenshot](docs/WC3_html_gallery.png)
 
-![W3C HTML Validator Contact Screenshot](DOCS/WC3_html_contact.png)
+![W3C HTML Validator Contact Screenshot](docs/WC3_html_contact.png)
 
 ### CSS
 
@@ -141,23 +143,23 @@ My project consists of four webpages:
 
 ### Desktop
 
-![lighthouse Images Home Desktop](DOCS/home_page_lighthouse_desktop.png)
+![lighthouse Images Home Desktop](docs/home_page_lighthouse_desktop.png)
 
-![lighthouse Images Profile Desktop](DOCS/profile_page_lighthouse_desktop.png)
+![lighthouse Images Profile Desktop](docs/profile_page_lighthouse_desktop.png)
 
-![lighthouse Images Gallery Desktop](DOCS/gallery_page_lighthouse_desktop.png)
+![lighthouse Images Gallery Desktop](docs/gallery_page_lighthouse_desktop.png)
 
-![lighthouse Images Contact Desktop](DOCS/contact_page_lighthouse_desktop.png)
+![lighthouse Images Contact Desktop](docs/contact_page_lighthouse_desktop.png)
 
 ### Mobile
 
-![lighthouse Images Home Mobile](DOCS/home_page_lighthouse_mobile.png)
+![lighthouse Images Home Mobile](docs/home_page_lighthouse_mobile.png)
 
-![lighthouse Images Profile Mobile](DOCS/profile_page_lighthouse_mobile.png)
+![lighthouse Images Profile Mobile](docs/profile_page_lighthouse_mobile.png)
 
-![lighthouse Images Gallery Mobile](DOCS/gallery_page_lighthouse_mobile.png)
+![lighthouse Images Gallery Mobile](docs/gallery_page_lighthouse_mobile.png)
 
-![lighthouse Images Contact Mobile](DOCS/contact_page_lighthouse_mobile.png)
+![lighthouse Images Contact Mobile](docs/contact_page_lighthouse_mobile.png)
 
 ### Deployment
 
@@ -189,6 +191,7 @@ The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.git
 - The README template provided y Code Institute on the sample project README.md from "Project Portfolio 1"
 - The online tutors for all their help.
 - The Code Institute slack community.
+- Online tutorials about HTML and CSS.
 - My classmates: Tasha Johnson and Usman Khan.
 - My new mentor Chris Quinn, thank you for all your positive feedback and guidance given. 
 - Last but not least Code Institute student support team, for listening to my concerns and for all their encouragement given.
