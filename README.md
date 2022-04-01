@@ -28,7 +28,7 @@ My project consists of four webpages:
 
 ### - The Navigation Bar
 
-- The naviagation bar is located at the top of the page, one section displays the the artist name and role, this information is located on the left corner.
+- The naviagation bar is located at the top of the page, one section displays the artist name and role, this information is located on the left corner.
 - The other navigation links of the website are on the top right hand side, these are: Home, Profile, Gallery, and Contact.
 - The navigation bar is very responsive and user friendly, allows the user to find information easily in each section of the website.
 
@@ -61,7 +61,7 @@ My project consists of four webpages:
 ![Screenshot of the Contact Page](assets/images/Contact_Page.png)
 
 
-- I tested the contact form with successfully results when submitted.
+- I tested the contact form with successful results when submitted.
 
 ![Screenshot submitted contact form](assets/images/contact_form_submitted.png)
 
@@ -80,7 +80,7 @@ My project consists of four webpages:
 
 - I tested this page in different web browsers such as: Chrome, Firefox, Safari on desktop and mobile phones respectively.
 - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools device toolbar.
-- I confirmed that the navigation, header, home, profile, gallery, and contact text are all rideable and easy to understand.
+- I confirmed that the navigation, header, home, profile, gallery, and contact text are all readable and easy to understand.
 - I confirmed that the form works. It requires entries in every field (excluding the message), will only accept an email in the email field, and the submit button works.
 
 ### Google Chrome Browser
@@ -114,7 +114,7 @@ My project consists of four webpages:
 
 ### Unfixed Bugs
 
-- Due to time constraints I culd not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
+- Due to time constraints I could not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
 
 
 ## Validator Testing
@@ -166,7 +166,7 @@ My project consists of four webpages:
 The site was deployed to GitHub pages. The steps to deploy are:
 
 - In the GitHub repository, navigate to the Settings tab.
-- On the GitHub Pages section cliecked on the pages settings dedicated tab link.
+- On the GitHub Pages section clicked on the pages settings dedicated tab link.
 - From the source section drop-down menu, select the Main Branch click on seve.
 - Once the Main Branch has been selected and saved, the page provided the link to the completed website.
 
@@ -178,7 +178,7 @@ The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.git
 
 ## Content
 
-- The main idea for the layout of the website, contact form and  came from the Code Institute Love Running Project module, I had no previous experience building a website and doing this project previous my solo one was of a huge help, thank you Code Institute.
+- The main idea for the layout of the website and contact form came from the Code Institute Love Running Project module. I had no previous experience building a website and doing this project first was a huge help, thank you Code Institute.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - A big thank you to my brother Cristian Leon, for allowing me to use his images and content profile, I must say his passion for what he does has inspired me to pursue this new path in web development.
 
